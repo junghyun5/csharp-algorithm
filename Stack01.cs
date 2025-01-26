@@ -8,6 +8,8 @@ namespace Algorithm
 {
     internal class Program
     {
+        //BackJoon Algorithm NO.10828
+        //Stack
         static void Main(string[] args)
         {
             Stack<int> stack = new Stack<int>();
